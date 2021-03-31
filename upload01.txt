@@ -2,3 +2,6 @@ i am the first created file
 1 git initialize repository with the desired folder
 2 publish to git hub to create the repository
 3 from her push as you would
+
+perfect, you now now enough to work cross platform with git and vs code
+now get something to eat big guy :)
